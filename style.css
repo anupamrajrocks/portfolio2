@@ -67,7 +67,12 @@ body{
 }
 
 @media only screen and (max-width: 746px) {
-  .img{
+  .img1{
+    height: 300px;
+  }
+}
+@media only screen and (max-width: 746px) {
+  .img2{
     height: 300px;
   }
 }

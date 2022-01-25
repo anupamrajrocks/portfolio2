@@ -67,11 +67,15 @@ body{
 }
 
 @media only screen and (max-width: 800px) {
-  .img{
+  .img1{
     height: 300px;
   }
 }
-
+@media only screen and (max-width: 800px) {
+  .img2{
+    height: 300px;
+  }
+}
 .about-me{
   padding: auto;
   text-align: right;

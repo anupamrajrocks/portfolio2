@@ -66,13 +66,8 @@ body{
   font-size: 25px;
 }
 
-@media only screen and (min-width: 746px) {
-  .img1{
-    height: 300px;
-  }
-}
-@media only screen and (min-width: 746px) {
-  .img2{
+@media only screen and (max-width: 800px) {
+  .img{
     height: 300px;
   }
 }
@@ -89,10 +84,10 @@ body{
 
 .box-1{
   background-color: black;
-  height: 700px;
+  height: 800px;
 }
 
-@media only screen and (min-width: 400px) {
+@media only screen and (max-width: 1200px) {
   .box-1{
     height: 1300px;
   }

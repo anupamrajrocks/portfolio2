@@ -7,6 +7,12 @@
   scroll-behavior: smooth;
 }
 
+html,
+body{
+width:100%;
+overflow-x:hidden;
+}
+
 .nav_bar{
   background-color: black;
   width: auto;

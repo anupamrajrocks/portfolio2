@@ -84,7 +84,7 @@ body{
 
 .box-1{
   background-color: black;
-  height: 680px;
+  height: 800px;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -105,7 +105,7 @@ body{
 }
 
 .skill{
-  padding:auto;
+  padding-top: 170px;
   text-align: left;
   color: white;
   font-size: 60px;

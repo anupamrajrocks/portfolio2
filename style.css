@@ -67,15 +67,11 @@ body{
 }
 
 @media only screen and (max-width: 800px) {
-  .img1{
+  .img{
     height: 300px;
   }
 }
-@media only screen and (max-width: 800px) {
-  .img2{
-    height: 300px;
-  }
-}
+
 .about-me{
   padding: auto;
   text-align: right;
@@ -150,4 +146,50 @@ table{
 .exp-year{
   font-size: 40px;
   font-family: 'Comforter', cursive;
+}
+
+#my-services{
+  padding: auto;
+  text-align: left;
+  color: white;
+  font-size: 60px;
+  margin-left: 2.5%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px gray;
+}
+
+.contact-me{
+  padding: auto;
+  text-align: right;
+  color: white;
+  font-size: 60px;
+  margin-right: 2.5%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px gray;
+}
+
+.contact-text1{
+  color: #c5c3c3cc;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Comforter', cursive;
+}
+
+.contact-text2{
+  color: #c5c3c3cc;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contact-text3{
+  color: #c5c3c3cc;
+  font-size: 18px;
+}
+#copyright{
+  background-color: black;
+  height: 100px;
+  color: white;
+  text-align: center;
+  font-size: 25px;
 }

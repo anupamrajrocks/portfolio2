@@ -66,11 +66,75 @@ body{
   font-size: 25px;
 }
 
+@media only screen and (max-width: 600px) {
+  [class*="img1"] {
+    height: 3px;
+  }
+}
+
 .about-me{
+  padding: auto;
   text-align: right;
   color: white;
-  font-size: 55px;
-  margin-right: 3%;
+  font-size: 60px;
+  margin-right: 2.5%;
   font-family: 'Lobster', cursive;
   text-shadow: 4px 4px gray;
+}
+
+.box-1{
+  background-color: black;
+  height: 700px;
+}
+#about-me-1{
+  color: #c5c3c3cc;
+  font-size: 40px;
+}
+#about-me-2{
+  color: #c5c3c3cc;
+  font-size: 20px;
+}
+
+.skill{
+  padding:auto;
+  text-align: left;
+  color: white;
+  font-size: 60px;
+  margin-left: 2.5%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px gray;
+}
+
+table{
+  font-size: 30px;
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+.skill-percentage{
+  font-size: 60px;
+  font-family: 'Comforter', cursive;
+}
+
+.exp-1{
+  padding: auto;
+  text-align: right;
+  color: white;
+  font-size: 60px;
+  margin-right: 2.5%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px gray;
+}
+.exp-2{
+  padding: auto;
+  text-align: right;
+  color: rgba(110, 108, 108, 0.774);
+  font-size: 60px;
+  margin-right: 2.5%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px white;
+}
+.exp-year{
+  font-size: 40px;
+  font-family: 'Comforter', cursive;
 }

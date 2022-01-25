@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Roboto&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  scroll-behavior: smooth;
+}
+
+.nav_bar{
+  background-color: black;
+  width: auto;
+  padding-bottom: 80px;
+}
+
+.nav-link{
+  color: white;
+  font-size: 25px;
+  font-family: 'Lobster', cursive;
+}
+
+.nav-link:hover {
+  background-color: #ececf8;
+  color: black;    
+  text-decoration: none;           
+}
+
+body{
+  background-color: black ;
+  background-image: linear-gradient(to right, black , #404040 );
+}
+
+.media-icons{
+  float: left;
+  margin-left: 3%;
+
+} 
+
+.col{
+  color: white;
+  padding-top: 170px;
+}
+
+#intro-1{
+  font-size: 35px;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+#intro-2{
+  font-size: 85px;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  text-shadow: 4px 4px gray;
+}
+
+#intro-3{
+  font-size: 30px;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+#intro-4{
+  font-size: 25px;
+}
+
+.about-me{
+  text-align: right;
+  color: white;
+  font-size: 55px;
+  margin-right: 3%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px gray;
+}

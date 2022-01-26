@@ -116,11 +116,12 @@ body{
 
 table{
   font-size: 30px;
+   font-family: 'Mochiy Pop P One', sans-serif;
 }
 
 .skill-percentage{
   font-size: 60px;
-  font-family: 'Mochiy Pop P One', sans-serif;
+   font-family: 'Mochiy Pop P One', sans-serif;
 }
 
 .exp-1{

@@ -22,7 +22,7 @@ overflow-x:hidden;
 .nav-link{
   color: white;
   font-size: 25px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Roboto Slab', serif;
 }
 
 .nav-link:hover {
@@ -78,7 +78,7 @@ body{
   color: white;
   font-size: 60px;
   margin-right: 2.5%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
   text-shadow: 4px 4px gray;
 }
 
@@ -110,13 +110,13 @@ body{
   color: white;
   font-size: 60px;
   margin-left: 2.5%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
   text-shadow: 4px 4px gray;
 }
 
 table{
   font-size: 30px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Sarabun', sans-serif;
 
 }
 
@@ -131,7 +131,7 @@ table{
   color: white;
   font-size: 60px;
   margin-right: 2.5%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
   text-shadow: 4px 4px gray;
 }
 .exp-2{
@@ -144,7 +144,7 @@ table{
   text-shadow: 4px 4px white;
 }
 .exp-year{
-  font-size: 40px;
+  font-size: 37px;
   font-family: 'Comforter', cursive;
 }
 
@@ -154,7 +154,7 @@ table{
   color: white;
   font-size: 60px;
   margin-left: 2.5%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
   text-shadow: 4px 4px gray;
 }
 
@@ -164,7 +164,7 @@ table{
   color: white;
   font-size: 60px;
   margin-right: 2.5%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
   text-shadow: 4px 4px gray;
 }
 
